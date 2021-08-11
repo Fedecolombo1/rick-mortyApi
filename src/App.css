@@ -7,6 +7,34 @@
   pointer-events: none;
 }
 
+.search{
+  margin: 15px;
+}
+
+.imgP{
+  width: 80%;
+}
+
+.name{
+  margin-bottom: 0px;
+}
+
+.location{
+  font-size: 15px;
+  margin-bottom: 0px;
+}
+
+.desc{
+  font-size: 15px;
+}
+
+.Alive{
+  color: green;
+}
+
+.Dead{
+  color: red;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
